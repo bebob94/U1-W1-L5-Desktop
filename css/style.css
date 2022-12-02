@@ -62,7 +62,7 @@ main div h1{
     border-radius: 4px;
     color: white;
     background-color: #f04c2f;
-    font-family: montserrat (bold) bold;
+    font-family: 'Montserrat', sans-serif;
 }
 
 main>div+div{
