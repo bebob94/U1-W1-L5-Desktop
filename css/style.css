@@ -5,7 +5,7 @@ html{
 }
 
 body{
-    font-family: open sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.2rem;
     color: #393d41;
     line-height: 1.65;
@@ -15,7 +15,7 @@ body{
 
 header{
     background-color: black; 
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
     color: #25a2c3;
     line-height: 1.5;
     text-align: left;
